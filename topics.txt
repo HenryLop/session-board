@@ -1,0 +1,1 @@
+claude-code, windows, webview2, desktop-shell, developer-tools

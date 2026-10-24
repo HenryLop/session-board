@@ -1,0 +1,2 @@
+{"type":"user","timestamp":"2026-10-20T08:00:00Z","cwd":"/work/notes-app","message":{"role":"user","content":"Fix the dark mode flicker on startup"}}
+{"type":"assistant","timestamp":"2026-10-20T08:20:00Z","message":{"content":[{"type":"text","text":"Fixed and tested."}]}}

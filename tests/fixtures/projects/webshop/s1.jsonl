@@ -1,0 +1,2 @@
+{"type":"user","timestamp":"2026-10-24T10:00:00Z","cwd":"/work/webshop","message":{"role":"user","content":"Add a coupon field to the checkout form"}}
+{"type":"assistant","timestamp":"2026-10-24T10:01:00Z","message":{"content":[{"type":"text","text":"Editing the form."},{"type":"tool_use","name":"Edit"}]}}

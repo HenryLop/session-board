@@ -1,0 +1,2 @@
+{"type":"user","timestamp":"2026-10-24T09:30:00Z","cwd":"/work/webshop","message":{"role":"user","content":"Which database index would speed up the orders page?"}}
+{"type":"assistant","timestamp":"2026-10-24T09:55:00Z","message":{"content":[{"type":"text","text":"An index on (customer_id, created_at). Want me to write the migration?"}]}}
