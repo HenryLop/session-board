@@ -26,6 +26,14 @@ Python 3.8+. No dependencies. Read-only: it never writes to your transcripts.
 - The HTML page escapes all text and refreshes itself every 5 seconds.
 - Malformed lines in a transcript are skipped.
 
+## Results
+
+Measured from the author's own use, numbers only, no session content. The session folder holds 1,835 transcripts across 35 project folders. First events run from 25 Aug to 25 Oct 2026.
+
+- Busiest day: 98 sessions started on 23 Oct 2026. 50 started on 25 Oct, a partial day.
+- Per-session summaries saved on context compaction, 13 Sep to 25 Oct 2026: 3,099 files from 444 distinct sessions.
+- Not measured: how many cards were working, waiting or done over time. The board computes that live and keeps no history of it.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
